@@ -29,3 +29,12 @@ SudokuPlay/
 │   └── SudokuGame.java       # Ponto de entrada para o jogo.
 ├── README.md                 # Arquivo de documentação.
 └── .gitignore                # Arquivo para ignorar arquivos desnecessários no Git.
+🧑‍💻 Autor
+Antônio William
+
+GitHub: antoniowilliamg
+
+LinkedIn: [Antonio William](https://www.linkedin.com/in/antonio-william/)
+
+📜 Licença
+Este projeto está licenciado sob a Licença MIT. Sinta-se livre para usá-lo e modificá-lo conforme necessário.
